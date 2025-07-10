@@ -155,7 +155,7 @@ export default function TestimonialsPage() {
         <div className="container flex h-16 items-center justify-between px-4">
           <Link className="flex items-center justify-center" href="/">
             <ArrowLeft className="h-4 w-4 mr-2" />
-            <span className="text-sm font-medium">Back to Home</span>
+            <span className="text-sm font-medium">Back</span>
           </Link>
           <div className="ml-4">
             <h1 className="text-lg font-semibold">Customer Success Stories</h1>
